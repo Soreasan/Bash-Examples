@@ -1,0 +1,7 @@
+#!/bin/bash
+# www.cslearner.com
+# This is a FOR loop in bash.
+
+for i in {1..5};do
+echo "count: $i"
+done
